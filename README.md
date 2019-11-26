@@ -1,8 +1,8 @@
 ###
 
- A tool for help you display a running text across browser and device
+A tool for help you display a running text across browser and device
 
-Use React hook for old project and https://github.com/windwp/effect-multi-device
+Use React hook for old project https://github.com/windwp/effect-multi-device
 update it for run online.
 
 Demo [https://multiscreentext.firebaseapp.com/](https://multiscreentext.firebaseapp.com/)
