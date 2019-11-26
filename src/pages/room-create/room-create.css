@@ -1,0 +1,31 @@
+.container-phone {
+  display: flex;
+}
+
+.setting-form .row {
+  margin: 3px;
+}
+
+.setting-form label {
+  font-weight: bold;
+  padding-right: 10px;
+}
+.device-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.device-wrapper .device-item {
+  width: 100px;
+  height: 100px;
+  border: 3px solid #2185d0;
+  background: #c5ddf1;
+  margin: 4px;
+}
+.device-wrapper .device-item .device-title {
+  font-size: 53px;
+  color: #5471c5;
+  font-weight: bold;
+}
+
+

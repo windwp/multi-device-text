@@ -1,0 +1,20 @@
+ .phone-device {
+     padding: 0px;
+ }
+
+ .phone-device .phone-canvas {
+     margin: 0 10px;
+     position: relative;
+ }
+
+ .phone-device .phone-title {
+     margin: 0px;
+     text-align: center;
+ }
+
+ .phone-device .phone-image {
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     z-index: -1;
+ }
