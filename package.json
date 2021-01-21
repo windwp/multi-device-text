@@ -15,7 +15,7 @@
     "@types/react-router-dom": "^5.1.2",
     "@types/reactcss": "^1.2.3",
     "@use-hook/use-cookie": "^0.1.4",
-    "immer": "^5.0.0",
+    "immer": "^8.0.1",
     "pixi.js": "^5.2.0",
     "qrcode.react": "^1.0.0",
     "react": "^16.12.0",
